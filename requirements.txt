@@ -1,0 +1,3 @@
+kiteconnect
+python-dotenv
+requests

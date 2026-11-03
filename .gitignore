@@ -1,0 +1,5 @@
+access_token.txt
+.env
+.cache/
+trades.log
+__pycache__/
